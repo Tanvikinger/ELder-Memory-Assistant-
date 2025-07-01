@@ -39,22 +39,22 @@ You can run this project in 3 ways:
 
 ** Using Local IDE
 
-# Step 1: Clone the repository
-git clone
+Step 1: Clone the repository
+git clone https://github.com/Tanvikinger/Elder-Memory-Assistant-
 
-# Step 2: Navigate to the project directory
-cd ELder-Memory-Assistant-
+ Step 2: Navigate to the project directory
+ cd ELder-Memory-Assistant-
 
-# Step 3: Install dependencies
+ Step 3: Install dependencies
 npm install
 
-# Step 4: Start the development server
+ Step 4: Start the development server
 npm run dev
 
-✏ Edit Directly on GitHub
+ Edit Directly on GitHub
 
 1. Navigate to a file
-2. Click ✏ Edit
+2. Click Edit
 3. Make changes and commit
 
 Use GitHub Codespaces
@@ -63,7 +63,7 @@ Use GitHub Codespaces
 2. Click New codespace
 3. Edit files and push changes
 5. Link to Deployed Application
-🔗 Live Demo – Elderly Memory Assistant
+🔗 Live Demo –  https://tanvikinger.github.io/elder-memory-assistant-/
 
 
 6. App Flow / System Architecture Diagram
@@ -74,23 +74,24 @@ Optional: Voice Cue / Photo Prompt → Reminder Triggered (Time-based)
 ↓  
 User Sees/Responds to Reminder
 
-7. Screenshots of the User Interface
-
-> (Upload screenshots to your repo and replace the links below if needed)
-
-
 8. Team Members and Their Contributions
 
 * Tanvi Kinger *
 
 Frontend development
+
 GitHub setup and deployment
+
 photo based features 
+
 Figma ui design 
 
 * Niyati Motwani *
+  
  Figma ui design
+ 
  ppt presentation
+ 
  walkthrough video
 
 
